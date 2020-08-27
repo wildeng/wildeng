@@ -20,10 +20,10 @@ I'm Alain and I like playing with computers, therefore, when not occupied with s
 
 You can find me on the Internet in different places:
 
-* my [personal place](https://alainmauri.eu)
-* [DEV](https://dev.to/wildeng)
-* On Twitter [@wildeng](https://twitter.com/wildeng)
-* On [LinkedIn](https://www.linkedin.com/in/alainmauri/)
+* :rocket: my [personal place](https://alainmauri.eu) 
+* :books: [DEV](https://dev.to/wildeng)
+* :bird: [@wildeng](https://twitter.com/wildeng)
+* :construction_worker: [LinkedIn](https://www.linkedin.com/in/alainmauri/)
 
 I have  many ideas and I'm currently looking for new opportunities!
 
