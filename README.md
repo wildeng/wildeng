@@ -1,4 +1,4 @@
-[![Alain Can Code](https://github.com/wildeng/wildeng/blob/main/Alain_Can_code.png?raw=true)](https://alainmauri.eu)
+[![Alain Can Code](https://github.com/wildeng/wildeng/blob/main/Alain_Can_code_blue.png?raw=true)](https://alainmauri.eu)
 
 <!--
 **wildeng/wildeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,5 @@ You can find me on the Internet in different places:
 * :books: [DEV](https://dev.to/wildeng)
 * :bird: [@wildeng](https://twitter.com/wildeng)
 * :construction_worker: [LinkedIn](https://www.linkedin.com/in/alainmauri/)
-
-I have  many ideas and I'm currently looking for new opportunities!
 
 Cheers!
