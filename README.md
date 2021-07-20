@@ -25,4 +25,17 @@ You can find me on the Internet in different places:
 * :bird: [@wildeng](https://twitter.com/wildeng)
 * :construction_worker: [LinkedIn](https://www.linkedin.com/in/alainmauri/)
 
-Cheers!
+---
+
+I love music and playing guitar. Sometime I get inspired and something comes out of my hands and I post it to Soundcloud
+
+🎸 [Soundcloud](https://soundcloud.com/user-642439546)
+
+---
+
+I try to read as much as I can, from sci-fi to economics to whatever I find interesting:
+
+📖 [Goodreads](https://www.goodreads.com/user/show/18166031-alain-mauri)
+
+---
+I also cultivate a small 🏡 [digital garden](https://alainmauri.eu/digital_garden)
