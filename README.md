@@ -1,4 +1,4 @@
-[![Alain Can Code](https://github.com/wildeng/wildeng/blob/main/Alain_Can_code_blue.png?raw=true)](https://alainmauri.eu)
+[![Alain Can Code](https://github.com/wildeng/wildeng/blob/main/Alain_Can_Code_General.png?raw=true)](https://alainmauri.eu)
 
 <!--
 **wildeng/wildeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
