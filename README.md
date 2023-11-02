@@ -20,8 +20,8 @@ I'm Alain and I like playing with computers, therefore, when not occupied with s
 
 You can find me on the Internet in different places:
 
-* :rocket: my [personal place](https://alainmauri.eu) 
-* :books: [DEV](https://dev.to/wildeng)
+* :rocket: my [personal place](https://alainmauri.eu)
+* :elephant:  [Ruby Social](https://ruby.social/@wildeng) 
 * :bird: [@wildeng](https://twitter.com/wildeng)
 * :construction_worker: [LinkedIn](https://www.linkedin.com/in/alainmauri/)
 
@@ -35,7 +35,9 @@ I love music and playing guitar. Sometime I get inspired and something comes out
 
 I try to read as much as I can, from sci-fi to economics to whatever I find interesting:
 
+📖 [The Story Graph](https://app.thestorygraph.com/profile/wildeng)
 📖 [Goodreads](https://www.goodreads.com/user/show/18166031-alain-mauri)
 
 ---
 I also cultivate a small 🏡 [digital garden](https://alainmauri.eu/digital_garden)
+My random [writings](https://alainmauri.eu/blog/)
