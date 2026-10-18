@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ### Ay-Up!
 
-I'm Alain and I like playing with computers, therefore, when not occupied with something else, I code.
+I'm Alain and I like playing with computers, therefore, when not occupied with something else, I code.  
+Senior Software Engineer with 20+ years of experience designing, building, and maintaining backend systems using Ruby, Go, and JavaScript. I've led engineering teams of 5 to 17 developers, taking ownership of technical delivery, mentoring engineers, and advocating for Test-Driven Development (TDD). Certified Professional Scrum Master (PSM I).
 
 You can find me on the Internet in different places:
 
